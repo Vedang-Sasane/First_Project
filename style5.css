@@ -1,0 +1,70 @@
+@media (max-width: 360px),(max-height: 720px)
+{
+
+.logo{
+    width: 120px;
+    height: 49px;
+    top: 16px;
+    left: 14px;
+
+}
+
+.welcome{
+    width: 330px;
+    height: 53px;
+    top: 108px;
+    left: 19px;
+    position: fixed;
+
+}
+
+.intro{
+    width: 245px;
+    height: 12px;
+    top: 222px;
+    left: 19px;
+    position: fixed;
+
+}
+
+.container{
+    width: 321px;
+    height: 53px;
+    top: 277px;
+    left: 19px;
+    border: 1px;
+    background: linear-gradient(0deg, #F6F6F6, #F6F6F6), linear-gradient(0deg, #283A97, #283A97);
+    
+}
+
+#container-1{
+    border: 1px solid #283A97;
+}
+
+#container-2{
+    margin-top: 30px;
+}
+
+#container-3{
+    margin-top: 30px;
+}
+
+.container-class{
+    margin-top: 50px;
+}
+
+pre-1{
+    width: 127px;
+    height: 19px;
+    top: 295px;
+    left: 63px;
+    font-family: Acumin Pro;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #3746A3; 
+
+}
+}

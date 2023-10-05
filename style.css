@@ -1,0 +1,169 @@
+  @font-face {
+    font-family: myFont;
+    src: url(Acumin-RPro.otf);
+}
+
+ @media (min-width: 1440px),(min-height: 682px)
+ 
+   {
+
+    .logo{
+
+        width: 181px;
+        height: 73px;
+        top: 99px;
+        left: 913px;
+
+    }
+
+    .welcome{
+        width: 263px;
+        height: 26px;
+        top: 227px;
+        left: 921px;
+
+    }
+
+    .btn{
+        width: 358px;
+        height: 40px;
+        top: 426px;
+        left: 921px;
+        border-radius: 4px;
+
+    }
+ }
+
+ @media only screen and (min-width: 350px) and (max-width: 768px) {
+    
+
+
+.logo{
+    
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.welcome
+{
+font-family: myFont;
+font-size: 22px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 100px;
+width: 269px;
+height: 50px;
+top: 361px;
+left: 19px;
+position: sticky;
+}
+
+#span-1{
+    color: #283A97;
+}
+
+#span-2{
+    color:#F15D2A;
+} 
+ 
+ .terms{
+    position: absolute;
+    width: 319px;
+    height: 28px;
+    top: 620px;
+    left: 21px;
+    font-family: myFont;
+    font-size: 10.56px;
+    font-weight: 300;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767B8E;
+
+
+
+} 
+
+.btn{
+    position: absolute;
+    width: 320px;
+    height: 44px;
+    top: 659px;
+    left: 20px;
+    border-radius: 4px;
+    background: #283A97;
+    
+}
+
+.img{
+    position: absolute;
+    width: 320px;
+    height: 228px;
+    top: 100px;
+    left: 20px;
+}
+
+#form{
+    
+    width: 320px;
+    height: 53px;
+    top: 411px;
+    left: 20px;
+    border: 1px solid #767B8E;
+    margin-bottom: 220px;
+    font-family: myFont;
+    position: fixed;
+
+}
+
+.anchor-tag{
+    text-decoration: none;
+    color:white;
+    width: 176.52px;
+    height: 12.09px;
+    top: 668.43px;
+    left: 94.54px;
+    font-family: Acumin Pro;
+    font-size: 15.84px;
+    font-weight: 700;
+    line-height: 26.4px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: inline-block;
+    position: sticky;
+
+
+}
+
+.img-2{
+    font-family:myFont;
+    position: relative;
+    margin-left: 15px;
+   
+}
+
+
+ .img-1{
+    position: fixed;
+}
+
+.span_2{
+    display: inline-block;
+    color:white;
+}
+
+#p1{
+    color:white;
+}
+
+#p2{
+    color:white;
+}
+
+.container{
+    margin: 50%;
+}
+} 
+

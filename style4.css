@@ -1,0 +1,147 @@
+@media (max-width: 360px),(max-height: 720px)
+{
+
+.logo{
+    width: 120px;
+    height: 49px;
+    top: 16px;
+    left: 14px;
+
+}
+
+.welcome{
+    width: 330px;
+    height: 53px;
+    top: 108px;
+    left: 19px;
+    position: fixed;
+
+}
+
+.intro{
+    width: 245px;
+    height: 12px;
+    top: 222px;
+    left: 19px;
+    position: fixed;
+
+}
+
+#box-1{
+    width: 209px;
+    height: 53px;
+    top: 277px;
+    left: 19px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+   
+}
+
+#box-2{
+    width: 99px;
+    height: 53px;
+    top: 277px;
+    left: 241px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+
+}
+
+#box-3{
+    width: 146px;
+    height: 53px;
+    top: 345px;
+    left: 20px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+    
+}
+#box-4{
+    width: 160px;
+    height: 53px;
+    top: 345px;
+    left: 180px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+    
+
+}
+
+#box-5{
+    width: 126px;
+    height: 53px;
+    top: 413px;
+    left: 20px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+
+
+}
+#box-6{
+    width: 177px;
+    height: 53px;
+    top: 413px;
+    left: 163px;
+    background: #F6F6F6;
+    display: flex;
+    position: fixed;
+
+
+}
+p{
+    width: 149px;
+    height: 19px;
+    top: 295px;
+    left: 57px;
+}
+
+.btn {
+    position: fixed;
+    width: 320px;
+    height: 44px;
+    top: 659px;
+    left: 20px;
+    border-radius: 4px;
+    background: #283A97;
+}
+
+.terms {
+    position: absolute;
+    width: 319px;
+    height: 28px;
+    top: 402px;
+    left: 7px;
+    /* margin-bottom: 220px; */
+    font-family: myFont;
+    font-size: 10.56px;
+    font-weight: 300;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767B8E;
+}
+.anchor-tag{
+    text-decoration: none;
+    color:white;
+    width: 176.52px;
+    height: 12.09px;
+    top: 675.43px;
+    left: 94.54px;
+    font-family: Acumin Pro;
+    font-size: 15.84px;
+    font-weight: 700;
+    line-height: 26.4px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: inline-block;
+    position: sticky;
+
+
+}
+
+}

@@ -1,0 +1,93 @@
+@font-face {
+    font-family: myFont;
+    src: url(Acumin-RPro.otf);
+}
+
+
+@media (max-width: 360px),(max-height: 720px) {
+    .logo{
+        width: 120px;
+        height: 49px;
+        top: 16px;
+        left: 14px;
+    }
+
+    .welcome{
+        width: 323px;
+        height: 53px;
+        top: 106px;
+        left: 17px;
+        position: absolute;
+
+    }
+
+    
+    .container-2{
+        padding: 25px 0px 0px; 
+    }
+
+    .container-3{
+        padding: 25px 0px 0px; 
+    }
+
+    .input{
+        width: 319px;
+        height: 53px;
+        top: 434px;
+        left: 21px;
+        background: #F6F6F6;
+    }
+
+    .container-main{
+        margin-top:10vh;;
+    }
+
+    .terms{
+        position: absolute;
+        width: 319px;
+        height: 28px;
+        top: 620px;
+        left: 21px;
+        /* margin-bottom : 220px; */
+        font-family: myFont;
+        font-size: 10.56px;
+        font-weight: 300;
+        line-height: 14px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #767B8E;
+    
+    
+    
+    } 
+    
+    .btn{
+        position: absolute;
+        width: 320px;
+        height: 44px;
+        top: 659px;
+        left: 20px;
+        border-radius: 4px;
+        background: #283A97;
+        
+    }
+    .anchor-tag{
+        text-decoration: none;
+        color:white;
+        width: 176.52px;
+        height: 12.09px;
+        top: 675.43px;
+        left: 94.54px;
+        font-family: Acumin Pro;
+        font-size: 15.84px;
+        font-weight: 700;
+        line-height: 26.4px;
+        letter-spacing: 0em;
+        text-align: center;
+        display: inline-block;
+        position: sticky;
+    
+    
+    }
+
+}
